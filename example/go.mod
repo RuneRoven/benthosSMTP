@@ -1,6 +1,6 @@
 module main
 
-replace benthosSMTP/plugin => ./benthosSMTP
+//replace benthosSMTP/plugin => ./benthosSMTP
 
 go 1.22.1
 

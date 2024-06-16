@@ -6,7 +6,7 @@ import (
 	"github.com/redpanda-data/benthos/v4/public/service"
 
 	// Import all standard Benthos components
-	_ "benthosSMTP/plugin"
+	_ "github.com/RuneRoven/benthosSMTP"
 
 	// "github.com/redpanda-data/connect/v4/public/components/all"
 	_ "github.com/redpanda-data/benthos/v4/public/bloblang"
