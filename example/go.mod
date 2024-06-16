@@ -1,11 +1,8 @@
 module main
 
-//replace benthosSMTP/plugin => ./benthosSMTP
-
 go 1.22.1
 
 require (
-	benthosSMTP/plugin v0.0.0-00010101000000-000000000000
 	github.com/redpanda-data/benthos/v4 v4.30.0
 	github.com/redpanda-data/connect/v4 v4.30.1
 )
