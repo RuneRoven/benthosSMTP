@@ -1,4 +1,4 @@
-module benthosSMTP
+module github.com/RuneRoven/benthosSMTP
 
 go 1.22.1
 
