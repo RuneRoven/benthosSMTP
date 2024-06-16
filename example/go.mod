@@ -3,7 +3,7 @@ module github.com/RuneRoven/benthosSMTP/example
 go 1.22.1
 
 require (
-    github.com/RuneRoven/benthosSMTP v0.1
+    github.com/RuneRoven/benthosSMTP v0.0.1
 	github.com/redpanda-data/benthos/v4 v4.30.0
 	github.com/redpanda-data/connect/v4 v4.30.1
 )
